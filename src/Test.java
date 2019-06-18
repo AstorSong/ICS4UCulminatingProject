@@ -161,6 +161,8 @@ public class Test extends javax.swing.JFrame {
 
     private void concludingActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_concludingActionPerformed
         // TODO add your handling code here:
+        new con().setVisible(true);
+        this.setVisible(false);
     }//GEN-LAST:event_concludingActionPerformed
 
     private void jMenuItem3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem3ActionPerformed
